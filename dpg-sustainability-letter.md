@@ -32,9 +32,9 @@ Sincerely,
 - Giovanni Pellerano, [GlobaLeaks](https://www.digitalpublicgoods.net/r/globaleaks).  
 - Jeremi Joslin, Executive Director, [OpenSPP](https://www.digitalpublicgoods.net/r/openspp).  
 - EM Lewis-Jong, [Mozilla Common Voice](https://www.digitalpublicgoods.net/r/mozilla-common-voice-dataset).  
-- Martin Jacobs, [OpenTeleRehab](https://www.digitalpublicgoods.net/r/opentelerehab)
+- Martin Jacobs, [OpenTeleRehab](https://www.digitalpublicgoods.net/r/opentelerehab).
 
-> ℹ️ Read [this guide](https://github.com/DPGAlliance/dpg-public-letters/blob/main/README.md) to learn how to support this movement and sign the letter.
+> 📨 Read [this guide](https://github.com/DPGAlliance/dpg-public-letters/blob/main/README.md) to learn how to support this movement and sign the letter.
 
 ---
 
