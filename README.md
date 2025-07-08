@@ -8,7 +8,7 @@
 
 ---
 
-Given the recent changes to the international funding landscape impacting the DPG ecosystem, the DPGA Secretariat and UNDP have coordinated the drafting of a public group letter on behalf of DPGs (signed by them), highlighting and reiterating the value of investing in the maintenance and support of digital public goods. The aim is to circulate this among funders and other relevant stakeholders to help underscore the global value of continuing to invest in DPGs. **If you would like to support DPGs, here are three (3) ways you can**:
+Given the recent changes to the international funding landscape impacting the DPG ecosystem, the DPGA Secretariat and UNDP have coordinated the drafting of a public group letter signed by [DPG product owners](https://www.digitalpublicgoods.net/registry), highlighting and reiterating the value of investing in the maintenance and support of digital public goods. The aim is to circulate this among funders and other relevant stakeholders to help underscore the global value of continuing to invest in DPGs. **If you would like to support DPGs, here are three (3) ways you can**:
 
 1. Sign this letter with your name and organisation affiliation by following the [instructions below](#how-to-sign).
 2. Share [this letter](https://dpgalliance.github.io/dpg-public-letters/dpg-sustainability-letter) (click the attached link to copy) with your network and across your organisation.
