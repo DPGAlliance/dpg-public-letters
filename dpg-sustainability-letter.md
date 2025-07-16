@@ -29,10 +29,10 @@ We, DPG product owners, are committed to building and maintaining vital digital 
 
 Sincerely, 
 
-- Giovanni Pellerano, [GlobaLeaks](https://www.digitalpublicgoods.net/r/globaleaks).  
+- Giovanni Pellerano, Project Lead, [GlobaLeaks](https://www.digitalpublicgoods.net/r/globaleaks).  
 - Jeremi Joslin, Executive Director, [OpenSPP](https://www.digitalpublicgoods.net/r/openspp).  
-- EM Lewis-Jong, [Mozilla Common Voice](https://www.digitalpublicgoods.net/r/mozilla-common-voice-dataset).  
-- Martin Jacobs, [OpenTeleRehab](https://www.digitalpublicgoods.net/r/opentelerehab).
+- EM Lewis-Jong, Product Director, [Mozilla Common Voice](https://www.digitalpublicgoods.net/r/mozilla-common-voice-dataset).  
+- Martin Jacobs, Project Manager, [OpenTeleRehab](https://www.digitalpublicgoods.net/r/opentelerehab).
 
 ---
 
