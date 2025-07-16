@@ -47,10 +47,10 @@ Supported by:
 
 **References**:
 
-1. [https://weforum.org/stories/2022/01/5-lessons-digital-public-goods-development](https://weforum.org/stories/2022/01/5-lessons-digital-public-goods-development\\)  
+1. [https://weforum.org/stories/2022/01/5-lessons-digital-public-goods-development](https://weforum.org/stories/2022/01/5-lessons-digital-public-goods-development)  
 2. [https://dhis2.org/in-action](https://dhis2.org/in-action)  
 3. [https://gatesfoundation.org/ideas/articles/mosip-digital-id-systems](https://gatesfoundation.org/ideas/articles/mosip-digital-id-systems)  
-4. [https://opencrvs.org/resources/connect/blog/putting-civil-registration-at-the-heart-of-government-service-delivery](https://www.opencrvs.org/resources/connect/blog/putting-civil-registration-at-the-heart-of-government-service-delivery)  
+4. [https://opencrvs.org/resources/connect/blog/putting-civil-registration-at-the-heart-of-government-service-delivery](https://opencrvs.org/resources/connect/blog/putting-civil-registration-at-the-heart-of-government-service-delivery)  
 5. [https://medic.org/stories/reimagining-remote-learning-how-in-app-training-cards-improve-cht-health-worker-learning/](https://medic.org/stories/reimagining-remote-learning-how-in-app-training-cards-improve-cht-health-worker-learning/)  
 6. [https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/globaleaks-empowers-whistleblowers-0](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/globaleaks-empowers-whistleblowers-0)  
 7. [https://mosip.io/country\_partners](https://mosip.io/country_partners), [https://dhis2.org/in-action](https://dhis2.org/in-action/)  
