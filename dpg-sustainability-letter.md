@@ -41,7 +41,7 @@ Supported by:
 - TBA
 - TBA
 
-> 📨 Kindly read [this guide](https://github.com/DPGAlliance/dpg-public-letters/blob/main/README.md) to learn how to support this movement and sign the letter.
+> 📨 Kindly read [this guide](https://github.com/DPGAlliance/dpg-public-letters/blob/main/README.md) to learn how to support this movement and endorse the letter.
 
 ---
 
