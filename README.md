@@ -29,3 +29,6 @@ Given the recent changes to the international funding landscape impacting the DP
 3. Submit your changes through a new pull request.
 4. Someone will review your changes, make any necessary edits, and merge them.
 5. Your name will be reflected on the letter in a few minutes!
+
+> [!TIP]
+> For DPG product owners, kindly add your signatory directly under the "Sincerely" section of the letter.
