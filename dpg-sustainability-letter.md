@@ -33,6 +33,7 @@ Sincerely,
 - Jeremi Joslin, Executive Director, [OpenSPP](https://www.digitalpublicgoods.net/r/openspp).  
 - EM Lewis-Jong, Product Director, [Mozilla Common Voice](https://www.digitalpublicgoods.net/r/mozilla-common-voice-dataset).  
 - Martin Jacobs, Project Manager, [OpenTeleRehab](https://www.digitalpublicgoods.net/r/opentelerehab).
+- Marco Bernasocchi, CEO|Chair|Creator, [OPENGIS.ch](https://opengis.ch) ([QGIS](https://www.digitalpublicgoods.net/r/qgis) | [QField](https://www.digitalpublicgoods.net/r/qfield)).
 
 ---
 
