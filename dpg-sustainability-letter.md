@@ -33,12 +33,13 @@ Sincerely,
 - Jeremi Joslin, Executive Director, [OpenSPP](https://www.digitalpublicgoods.net/r/openspp).  
 - EM Lewis-Jong, Product Director, [Mozilla Common Voice](https://www.digitalpublicgoods.net/r/mozilla-common-voice-dataset).  
 - Martin Jacobs, Project Manager, [OpenTeleRehab](https://www.digitalpublicgoods.net/r/opentelerehab).
+- Marco Bernasocchi, CEO|Chair|Creator, [OPENGIS.ch](https://opengis.ch) ([QGIS](https://www.digitalpublicgoods.net/r/qgis) | [QField](https://www.digitalpublicgoods.net/r/qfield)).
 
 ---
 
 Supported by:
 
-- Marco Bernasocchi, CEO|Chair|creator, [OPENGIS.ch](https://opengis.ch) | [qgis.org](https://qgis.org) | [QField.org](https://qfield.org).
+- TBA
 - TBA
 
 > 📨 Kindly read [this guide](https://github.com/DPGAlliance/dpg-public-letters/blob/main/README.md) to learn how to support this movement and endorse the letter.
