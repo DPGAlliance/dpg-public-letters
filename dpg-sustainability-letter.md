@@ -38,7 +38,7 @@ Sincerely,
 
 Supported by:
 
-- TBA
+- Marco Bernasocchi, CEO|Chair|creator, [OPENGIS.ch](https://opengis.ch) | [qgis.org](https://qgis.org) | [QField.org](https://qfield.org).
 - TBA
 
 > 📨 Kindly read [this guide](https://github.com/DPGAlliance/dpg-public-letters/blob/main/README.md) to learn how to support this movement and endorse the letter.
