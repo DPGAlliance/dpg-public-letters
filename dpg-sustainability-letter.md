@@ -40,7 +40,7 @@ Sincerely,
 
 Supported by:
 
-- TBA
+- Tim Doyle, Chief Executive Officer, [The Drupal Association](https://www.drupal.org/association/).
 - TBA
 
 > 📨 Kindly read [this guide](https://github.com/DPGAlliance/dpg-public-letters/blob/main/README.md) to learn how to support this movement and endorse the letter.
