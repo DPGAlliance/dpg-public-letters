@@ -35,7 +35,8 @@ Sincerely,
 - Martin Jacobs, Project Manager, [OpenTeleRehab](https://www.digitalpublicgoods.net/r/opentelerehab).
 - Marco Bernasocchi, CEO\|Chair\|Creator, [OPENGIS.ch](https://opengis.ch) ([QGIS](https://www.digitalpublicgoods.net/r/qgis) & [QField](https://www.digitalpublicgoods.net/r/qfield)).
 - Haydée Svab, Executive Director, Open Knowledge Brasil ([Querido Diario](https://www.digitalpublicgoods.net/r/querido-diario)).
-- Tim Doyle, Chief Executive Officer, [The Drupal Association](https://www.drupal.org/association/) ([Drupal](https://www.digitalpublicgoods.net/r/drupal)).
+- Tim Doyle, CEO, [The Drupal Association](https://www.drupal.org/association/) ([Drupal](https://www.digitalpublicgoods.net/r/drupal)).
+- Taylor Downs, CEO, [OpenFn](https://www.digitalpublicgoods.net/r/openfn).
 
 ---
 
