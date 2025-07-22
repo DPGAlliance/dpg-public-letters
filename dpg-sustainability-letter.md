@@ -35,12 +35,13 @@ Sincerely,
 - Martin Jacobs, Project Manager, [OpenTeleRehab](https://www.digitalpublicgoods.net/r/opentelerehab).
 - Marco Bernasocchi, CEO\|Chair\|Creator, [OPENGIS.ch](https://opengis.ch) ([QGIS](https://www.digitalpublicgoods.net/r/qgis) & [QField](https://www.digitalpublicgoods.net/r/qfield)).
 - Haydée Svab, Executive Director, Open Knowledge Brasil ([Querido Diario](https://www.digitalpublicgoods.net/r/querido-diario)).
+- Tim Doyle, Chief Executive Officer, [The Drupal Association](https://www.drupal.org/association/) ([Drupal](https://www.digitalpublicgoods.net/r/drupal)).
 
 ---
 
 Supported by:
 
-- Tim Doyle, Chief Executive Officer, [The Drupal Association](https://www.drupal.org/association/).
+- TBA
 - TBA
 
 > 📨 Kindly read [this guide](https://github.com/DPGAlliance/dpg-public-letters/blob/main/README.md) to learn how to support this movement and endorse the letter.
