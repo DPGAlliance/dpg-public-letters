@@ -37,6 +37,7 @@ Sincerely,
 - Haydée Svab, Executive Director, Open Knowledge Brasil ([Querido Diario](https://www.digitalpublicgoods.net/r/querido-diario)).
 - Tim Doyle, CEO, [The Drupal Association](https://www.drupal.org/association/) ([Drupal](https://www.digitalpublicgoods.net/r/drupal)).
 - Taylor Downs, CEO, [OpenFn](https://www.digitalpublicgoods.net/r/openfn).
+- Mark Herringer, Project Lead, [healthsites.io](https://healthsites.io) ([Global Healthsites Mapping Project](https://www.digitalpublicgoods.net/r/global-healthsites-mapping-project)).
 
 ---
 
