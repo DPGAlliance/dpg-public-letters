@@ -45,7 +45,7 @@ Sincerely,
 
 Supported by:
 
-- TBA
+- Andra Blaj, Director of Open Technology, [Medic](https://medic.org/)([Community Health Toolkit](https://www.digitalpublicgoods.net/r/community-health-toolkit)).
 - TBA
 
 > 📨 Kindly read [this guide](https://github.com/DPGAlliance/dpg-public-letters/blob/main/README.md) to learn how to support this movement and endorse the letter.
