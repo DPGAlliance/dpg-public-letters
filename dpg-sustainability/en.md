@@ -39,7 +39,9 @@ Sincerely,
 - Taylor Downs, CEO, [OpenFn](https://www.digitalpublicgoods.net/r/openfn).
 - Mark Herringer, Project Lead, [healthsites.io](https://healthsites.io) ([Global Healthsites Mapping Project](https://www.digitalpublicgoods.net/r/global-healthsites-mapping-project)).
 - Quentin Perrot, Chief Product Officer, Zenysis Technologies ([Harmony](https://www.digitalpublicgoods.net/r/harmony)).
-- Kristin Braa, Director, HISP Centre at University of Oslo, ([DHIS2](https://www.digitalpublicgoods.net/r/dhis2)).
+- Kristin Braa, Director, HISP Centre at University of Oslo ([DHIS2](https://www.digitalpublicgoods.net/r/dhis2)).
+- Edward Cable, President/CEO, [The Mifos Initiative](https://mifos.org) ([Mifos X](https://www.digitalpublicgoods.net/r/mifos-x) \| [PH-EE](https://www.digitalpublicgoods.net/r/mifos-payment-hub-ee-ph-ee)).
+
 
 ---
 
