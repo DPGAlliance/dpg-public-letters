@@ -42,6 +42,7 @@ Sincerely,
 - Kristin Braa, Director, HISP Centre at University of Oslo ([DHIS2](https://www.digitalpublicgoods.net/r/dhis2)).
 - Edward Cable, President/CEO, [The Mifos Initiative](https://mifos.org) ([Mifos X](https://www.digitalpublicgoods.net/r/mifos-x) \| [PH-EE](https://www.digitalpublicgoods.net/r/mifos-payment-hub-ee-ph-ee)).
 - Andra Blaj, Director of Open Technology, [Medic](https://medic.org/) ([Community Health Toolkit](https://www.digitalpublicgoods.net/r/community-health-toolkit)).
+- Sebastian Leidig, CEO, [Aam Digital](https://www.digitalpublicgoods.net/r/aam-digital).
 
 
 ---
