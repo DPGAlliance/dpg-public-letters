@@ -44,7 +44,7 @@ Sincerely,
 - Andra Blaj, Director of Open Technology, [Medic](https://medic.org/) ([Community Health Toolkit](https://www.digitalpublicgoods.net/r/community-health-toolkit)).
 - Sebastian Leidig, CEO, [Aam Digital](https://www.digitalpublicgoods.net/r/aam-digital).
 - Olivier Dobberkau, President of the TYPO3 Association ([TYPO3](https://www.digitalpublicgoods.net/r/typo3)).
-- Kim Øgendahl Hoppenworth, Digital Health Lead, MSH ([OpenRIMS](https://www.digitalpublicgoods.net/r/openrims).
+- Kim Øgendahl Hoppenworth, Digital Health Lead, MSH ([OpenRIMS](https://www.digitalpublicgoods.net/r/openrims)).
 
 ---
 
