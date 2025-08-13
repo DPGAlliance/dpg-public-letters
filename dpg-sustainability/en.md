@@ -45,6 +45,7 @@ Sincerely,
 - Sebastian Leidig, CEO, [Aam Digital](https://www.digitalpublicgoods.net/r/aam-digital).
 - Olivier Dobberkau, President of the TYPO3 Association ([TYPO3](https://www.digitalpublicgoods.net/r/typo3)).
 - Kim Øgendahl Hoppenworth, Digital Health Lead, MSH ([OpenRIMS](https://www.digitalpublicgoods.net/r/openrims)).
+- Edward Duffus, Co-Founder and CEO, [OpenCRVS](https://www.digitalpublicgoods.net/r/opencrvs).
 
 ---
 
