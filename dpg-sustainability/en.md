@@ -46,6 +46,7 @@ Sincerely,
 - Olivier Dobberkau, President of the TYPO3 Association ([TYPO3](https://www.digitalpublicgoods.net/r/typo3)).
 - Kim Øgendahl Hoppenworth, Digital Health Lead, MSH ([OpenRIMS](https://www.digitalpublicgoods.net/r/openrims)).
 - Edward Duffus, Co-Founder and CEO, [OpenCRVS](https://www.digitalpublicgoods.net/r/opencrvs).
+- Caitlin Augustin, Vice President, Product and Programs, DataKind [Data Observation Toolkit](https://www.digitalpublicgoods.net/r/data-observation-toolkit).
 
 ---
 
