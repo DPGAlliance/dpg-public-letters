@@ -51,7 +51,8 @@ Sincerely,
 ---
 
 Supported by:
-- TBA
+- AHM Bazlur Rahman, CEO, Bangladesh NGOs Network for Radio and Communication (BNNRC).
+- 
 
 > 📨 Kindly read [this guide](https://github.com/DPGAlliance/dpg-public-letters/blob/main/README.md) to learn how to support this movement and endorse the letter.
 
