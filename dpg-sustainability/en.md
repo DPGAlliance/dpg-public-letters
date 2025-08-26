@@ -47,6 +47,7 @@ Sincerely,
 - Kim Øgendahl Hoppenworth, Digital Health Lead, MSH ([OpenRIMS](https://www.digitalpublicgoods.net/r/openrims)).
 - Edward Duffus, Co-Founder and CEO, [OpenCRVS](https://www.digitalpublicgoods.net/r/opencrvs).
 - Caitlin Augustin, Vice President, Product and Programs, DataKind ([Data Observation Toolkit](https://www.digitalpublicgoods.net/r/data-observation-toolkit)).
+- Jamie Alexandre, Co-Executive Director, [Learning Equality](https://learningequality.org/).
 
 ---
 
