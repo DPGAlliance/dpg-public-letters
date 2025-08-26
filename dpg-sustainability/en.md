@@ -48,7 +48,7 @@ Sincerely,
 - Edward Duffus, Co-Founder and CEO, [OpenCRVS](https://www.digitalpublicgoods.net/r/opencrvs).
 - Caitlin Augustin, Vice President, Product and Programs, DataKind ([Data Observation Toolkit](https://www.digitalpublicgoods.net/r/data-observation-toolkit)).
 - Jamie Alexandre, Co-Executive Director, [Learning Equality](https://learningequality.org/) ([Kolibri](https://www.digitalpublicgoods.net/r/kolibri)).
-- Joshua Powell, CEO, [Development Gateway: An IREX Venture (https:www.developmentgateway.org)].
+- Joshua Powell, CEO, [Development Gateway](https://developmentgateway.org) ([Aid Management Platform](https://www.digitalpublicgoods.net/r/aid-management-platform) & [Open Contracting Portal](https://www.digitalpublicgoods.net/r/open-contracting-portal-1)).
 
 ---
 
