@@ -33,13 +33,13 @@ Therefore, we, DPG product owners, ask you to consider the following:
 
 We, DPG product owners, are committed to building and maintaining vital digital solutions, but we can’t do it alone. We urge you all to join us in safeguarding the future of digital public goods. Together, we can ensure that digital public goods continue to empower communities and transform lives for many years to come.
 
-## Sincerely
+Sincerely,
 
 {% include signatures/sincerely-list.html signatures=site.data.signatures.dpg_sustainability.sincerely %}
 
 ---
 
-## Supported by
+Supported by:
 
 {% include signatures/supported-by-list.html supporters=site.data.signatures.dpg_sustainability.supported_by %}
 

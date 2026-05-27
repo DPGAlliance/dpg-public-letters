@@ -33,13 +33,13 @@ Portanto, nós, mantenedores de DPGs, pedimos que vocês considerem o seguinte:
 
 Nós, mantenedores de DPGs, estamos comprometidos com a construção e a manutenção de soluções digitais vitais, mas não conseguimos fazer isso sozinhos. Convidamos todas e todos a se juntar a nós para proteger o futuro dos bens públicos digitais. Juntos, podemos garantir que os bens públicos digitais continuem empoderando comunidades e transformando vidas por muitos anos.
 
-## Atenciosamente
+Atenciosamente,
 
 {% include signatures/sincerely-list.html signatures=site.data.signatures.dpg_sustainability.sincerely %}
 
 ---
 
-## Apoiado por
+Apoiado por:
 
 {% include signatures/supported-by-list.html supporters=site.data.signatures.dpg_sustainability.supported_by %}
 
