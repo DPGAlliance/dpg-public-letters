@@ -1,0 +1,5 @@
+<ul>
+{% for supporter in include.supporters %}
+	<li>{{ supporter.name }}, {{ supporter.role | replace: '|', '&#124;' }}, {% if supporter.organization.url and supporter.organization.url != '' %}<a href="{{ supporter.organization.url }}">{{ supporter.organization.name }}</a>{% else %}{{ supporter.organization.name }}{% endif %}.</li>
+{% endfor %}
+</ul>

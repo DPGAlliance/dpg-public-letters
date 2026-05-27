@@ -1,0 +1,5 @@
+<ul>
+{% for signer in include.signatures %}
+	<li>{{ signer.name }}, {{ signer.role | replace: '|', '&#124;' }}{% if signer.organization.name and signer.organization.name != '' %}, {% if signer.organization.url and signer.organization.url != '' %}<a href="{{ signer.organization.url }}">{{ signer.organization.name }}</a>{% else %}{{ signer.organization.name }}{% endif %}{% endif %}{% if signer.products %} ({% for product in signer.products %}{% if forloop.first == false %}{% if forloop.last %} &amp; {% else %}, {% endif %}{% endif %}<a href="{{ product.url }}">{{ product.name }}</a>{% endfor %}){% endif %}.</li>
+{% endfor %}
+</ul>
