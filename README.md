@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://digitalpublicgoods.net/registry" target="_blank" rel="no opener noreferrer"><img src="https://github.com/DPGAlliance/dpg-resources/blob/main/docs/assets/dpg-badge.png?raw=true" width="70" alt="Digital Public Goods Badge"></a>
+<a href="https://digitalpublicgoods.net/registry"><img src="https://raw.githubusercontent.com/DPGAlliance/dpg-resources/main/docs/assets/dpg-badge/dpg-badge.png" width="250" alt="Digital Public Goods Badge"></a>
 
 # DPG Sustainability Public Support Letter
 
@@ -10,7 +10,7 @@
 
 Given the recent changes to the international funding landscape impacting the DPG ecosystem, the DPGA Secretariat and UNDP have coordinated the drafting of a public group letter signed by [DPG product owners](https://www.digitalpublicgoods.net/registry), highlighting and reiterating the value of investing in the maintenance and support of digital public goods. This letter represents a shared language that DPG product owners will use as part of their advocacy efforts to reach funders and other relevant stakeholders, helping to underscore the global value of continuing to invest in DPGs. **If you would like to support DPGs, here are three (3) ways you can**:
 
-1. Share [the letter](https://dpgalliance.github.io/dpg-public-letters/dpg-sustainability/en) (click the attached link to copy) with your network and across your organisation.
+1. Share the letter ([English](https://dpgalliance.github.io/dpg-public-letters/dpg-sustainability/en/) · [Português](https://dpgalliance.github.io/dpg-public-letters/dpg-sustainability/pt/)) with your network and across your organisation.
 2. Endorse this letter with your name and organisation affiliation by following the [instructions below](#how-to-endorse).
 3. If you fall into any of the groups below, kindly consider our request and circulate it across your organisation:
 
@@ -24,11 +24,37 @@ Given the recent changes to the international funding landscape impacting the DP
 
 ## How to Endorse
 
-1. Edit the [/dpg-sustainability/en.md](dpg-sustainability/en.md) file by clicking [this link](https://github.com/DPGAlliance/dpg-public-letters/edit/main/dpg-sustainability/en.md).
-2. At the end of the file in the "Supported by:" section, enter your full name and affiliation separated by a comma using the format: `Your Name, Title, [Organisation Name](link)`.
+1. Edit the [/_data/signatures.yml](_data/signatures.yml) file by clicking [this link](https://github.com/DPGAlliance/dpg-public-letters/edit/main/_data/signatures.yml).
+2. Add your entry to the appropriate list:
+	- **`dpg_sustainability.sincerely`** — if your product is listed in the [DPG registry](https://www.digitalpublicgoods.net/registry).
+	- **`dpg_sustainability.supported_by`** — for all other endorsers and supporters.
+
+	Use the exact indentation and YAML structure.
+
+	**Example for `supported_by`:**
+
+	```yaml
+	- name: Your Name
+	  role: Your Title
+	  organization:
+	    name: Your Organisation Name
+	    url: https://example.org # optional, can be left blank
+	```
+
+	**Example for `sincerely` (DPG product owners):**
+
+	```yaml
+	- name: Your Name
+	  role: Your Title
+	  organization:
+	    name: Your Organisation Name
+	    url: https://example.org # optional
+	  products: # optional
+	    - name: Product A
+	      url: https://www.digitalpublicgoods.net/r/product-a
+	    - name: Product B
+	      url: https://www.digitalpublicgoods.net/r/product-b
+	```
 3. Submit your changes through a new pull request.
 4. Someone will review your changes, make any necessary edits, and merge them.
 5. Your name will be reflected on the letter in a few minutes!
-
-> [!TIP]
-> For DPG product owners, kindly add your signatory directly under the "Sincerely" section of the letter.
