@@ -150,7 +150,15 @@ dpg_sustainability:
       organization:
         name: Energy Access Explorer
         url: https://www.digitalpublicgoods.net/r/energy-access-explorer
-
+    - name: Daiane Alves
+      role: CEO
+      organization:
+        - name: LibreCode Cooperative
+        - url: https://librecode.coop
+      products:
+        - name: LibreSign
+          url: https://www.digitalpublicgoods.net/r/libresign
+ 
   supported_by:
     - name: AHM Bazlur Rahman
       role: CEO
