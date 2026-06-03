@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://digitalpublicgoods.net/registry"><img src="https://raw.githubusercontent.com/DPGAlliance/dpg-resources/main/docs/assets/dpg-badge/dpg-badge.png" width="250" alt="Digital Public Goods Badge"></a>
+<a href="https://digitalpublicgoods.net/registry"><img src="https://raw.githubusercontent.com/DPGAlliance/dpg-resources/main/docs/assets/dpg-badge/dpg-badge.png" width="100" alt="Digital Public Goods Badge"></a>
 
 # DPG Sustainability Public Support Letter
 
