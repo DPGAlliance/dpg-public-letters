@@ -1,0 +1,159 @@
+dpg_sustainability:
+  sincerely:
+    - name: Giovanni Pellerano
+      role: Project Lead
+      organization:
+        name: GlobaLeaks
+        url: https://www.digitalpublicgoods.net/r/globaleaks
+    - name: Jeremi Joslin
+      role: Executive Director
+      organization:
+        name: OpenSPP
+        url: https://www.digitalpublicgoods.net/r/openspp
+    - name: EM Lewis-Jong
+      role: Product Director
+      organization:
+        name: Mozilla Common Voice
+        url: https://www.digitalpublicgoods.net/r/mozilla-common-voice-dataset
+    - name: Martin Jacobs
+      role: Project Manager
+      organization:
+        name: OpenTeleRehab
+        url: https://www.digitalpublicgoods.net/r/opentelerehab
+    - name: Marco Bernasocchi
+      role: CEO|Chair|Creator
+      organization:
+        name: OPENGIS.ch
+        url: https://opengis.ch
+      products:
+        - name: QGIS
+          url: https://www.digitalpublicgoods.net/r/qgis
+        - name: QField
+          url: https://www.digitalpublicgoods.net/r/qfield
+    - name: Haydée Svab
+      role: Executive Director
+      organization:
+        name: Open Knowledge Brasil
+        url:
+      products:
+        - name: Querido Diario
+          url: https://www.digitalpublicgoods.net/r/querido-diario
+    - name: Tim Doyle
+      role: CEO
+      organization:
+        name: The Drupal Association
+        url: https://www.drupal.org/association/
+      products:
+        - name: Drupal
+          url: https://www.digitalpublicgoods.net/r/drupal
+    - name: Taylor Downs
+      role: CEO
+      organization:
+        name: OpenFn
+        url: https://www.digitalpublicgoods.net/r/openfn
+    - name: Mark Herringer
+      role: Project Lead
+      organization:
+        name: healthsites.io
+        url: https://healthsites.io
+      products:
+        - name: Global Healthsites Mapping Project
+          url: https://www.digitalpublicgoods.net/r/global-healthsites-mapping-project
+    - name: Quentin Perrot
+      role: Chief Product Officer
+      organization:
+        name: Zenysis Technologies
+        url:
+      products:
+        - name: Harmony
+          url: https://www.digitalpublicgoods.net/r/harmony
+    - name: Kristin Braa
+      role: Director
+      organization:
+        name: HISP Centre at University of Oslo
+        url:
+      products:
+        - name: DHIS2
+          url: https://www.digitalpublicgoods.net/r/dhis2
+    - name: Edward Cable
+      role: President/CEO
+      organization:
+        name: The Mifos Initiative
+        url: https://mifos.org
+      products:
+        - name: Mifos X
+          url: https://www.digitalpublicgoods.net/r/mifos-x
+        - name: PH-EE
+          url: https://www.digitalpublicgoods.net/r/mifos-payment-hub-ee-ph-ee
+    - name: Andra Blaj
+      role: Director of Open Technology
+      organization:
+        name: Medic
+        url: https://medic.org/
+      products:
+        - name: Community Health Toolkit
+          url: https://www.digitalpublicgoods.net/r/community-health-toolkit
+    - name: Sebastian Leidig
+      role: CEO
+      organization:
+        name: Aam Digital
+        url: https://www.digitalpublicgoods.net/r/aam-digital
+    - name: Olivier Dobberkau
+      role: President of the TYPO3 Association
+      organization:
+        name:
+        url:
+      products:
+        - name: TYPO3
+          url: https://www.digitalpublicgoods.net/r/typo3
+    - name: Kim Øgendahl Hoppenworth
+      role: Digital Health Lead
+      organization:
+        name: MSH
+        url:
+      products:
+        - name: OpenRIMS
+          url: https://www.digitalpublicgoods.net/r/openrims
+    - name: Edward Duffus
+      role: Co-Founder and CEO
+      organization:
+        name: OpenCRVS
+        url: https://www.digitalpublicgoods.net/r/opencrvs
+    - name: Caitlin Augustin
+      role: Vice President, Product and Programs
+      organization:
+        name: DataKind
+        url:
+      products:
+        - name: Data Observation Toolkit
+          url: https://www.digitalpublicgoods.net/r/data-observation-toolkit
+    - name: Jamie Alexandre
+      role: Co-Executive Director
+      organization:
+        name: Learning Equality
+        url: https://learningequality.org/
+      products:
+        - name: Kolibri
+          url: https://www.digitalpublicgoods.net/r/kolibri
+    - name: Joshua Powell
+      role: CEO
+      organization:
+        name: Development Gateway
+        url: https://developmentgateway.org
+      products:
+        - name: Aid Management Platform
+          url: https://www.digitalpublicgoods.net/r/aid-management-platform
+        - name: Open Contracting Portal
+          url: https://www.digitalpublicgoods.net/r/open-contracting-portal-1
+    - name: Dimitris Mentis
+      role: Global Lead
+      organization:
+        name: Energy Access Explorer
+        url: https://www.digitalpublicgoods.net/r/energy-access-explorer
+
+  supported_by:
+    - name: AHM Bazlur Rahman
+      role: CEO
+      organization:
+        name: Bangladesh NGOs Network for Radio and Communication (BNNRC)
+        url:
