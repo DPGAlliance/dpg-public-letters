@@ -35,13 +35,13 @@ Nós, mantenedores de DPGs, estamos comprometidos com a construção e a manuten
 
 Atenciosamente,
 
-{% include dpg-sustainability/signatures/sincerely-list.html signatures=site.data.signatures.dpg_sustainability.sincerely %}
+{% include signatures/dpg-sustainability/sincerely-list.html signatures=site.data.signatures.dpg_sustainability.sincerely %}
 
 ---
 
 Apoiado por:
 
-{% include dpg-sustainability/signatures/supported-by-list.html supporters=site.data.signatures.dpg_sustainability.supported_by %}
+{% include signatures/dpg-sustainability/supported-by-list.html supporters=site.data.signatures.dpg_sustainability.supported_by %}
 
 > 📨 Leia [este guia](https://github.com/DPGAlliance/dpg-public-letters/blob/main/README.md) para saber como apoiar este movimento e endossar a carta.
 
