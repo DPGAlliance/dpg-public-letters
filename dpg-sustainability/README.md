@@ -24,7 +24,7 @@ Given the recent changes to the international funding landscape impacting the DP
 
 ## How to Endorse
 
-1. Edit the [/_data/dpg-sustainability/signatures.yml](_data/dpg-sustainability/signatures.yml) file by clicking [this link](https://github.com/DPGAlliance/dpg-public-letters/edit/main/_data/dpg-sustainability/signatures.yml).
+1. Edit the [/_data/dpg-sustainability/signatures.yml](https://github.com/DPGAlliance/dpg-public-letters/edit/main/_data/dpg-sustainability/signatures.yml) file.
 2. Add your entry to the appropriate list:
     - **`dpg_sustainability.sincerely`** — if your product is listed in the [DPG registry](https://www.digitalpublicgoods.net/registry).
     - **`dpg_sustainability.supported_by`** — for all other endorsers and supporters.
