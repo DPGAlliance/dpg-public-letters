@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Best Practices for Preventing AI Exploitation of Open Content and Open Data DPGs
-permalink: /dpg-open-content-data
+permalink: /dpg-open-content-data/en
 ---
 
 # {{ page.title }}
