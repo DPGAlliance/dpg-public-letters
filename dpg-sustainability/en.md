@@ -41,7 +41,7 @@ Sincerely,
 
 Supported by:
 
-{% include dpg-sustainability/signatures/supported-by-list.html supporters=site.data.signatures.dpg_sustainability.supported_by %}
+{% include signatures/supported-by-list.html supporters=site.data.signatures.dpg_sustainability.supported_by %}
 
 > 📨 Kindly read [this guide](https://github.com/DPGAlliance/dpg-public-letters/blob/main/README.md) to learn how to support this movement and endorse the letter.
 
