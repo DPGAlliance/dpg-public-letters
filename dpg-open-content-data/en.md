@@ -10,16 +10,16 @@ permalink: /dpg-open-content-data/en
 
 | Table of Contents |
 | :--- |
-| [1.0 Introduction and Purpose](#1.0-introduction-and-purpose) |
-| [2.0 Context: The Shared Challenges](#2.0-context:-the-shared-challenges) |
-| [3.0 Recommendations](#3.0-recommendations) |
-| &nbsp;&nbsp;[3.1. Transparency and Traceability](#3.1.-transparency-and-traceability) |
-| &nbsp;&nbsp;[3.2. Reciprocity and Value Sharing](#3.2.-reciprocity-and-value-sharing) |
-| &nbsp;&nbsp;[3.3. Licensing, Governance, and Legal Tools](#3.3.-licensing,-governance,-and-legal-tools) |
-| &nbsp;&nbsp;[3.4 Technical Mechanisms for DPGs](#3.4-technical-mechanisms-for-dpgs) |
-| [4.0 Conclusion](#4.0-conclusion) |
-| [5.0 Acknowledgement](#5.0-acknowledgement) |
-| [6.0 References](#6.0-references) |
+| [1.0 Introduction and Purpose](#10-introduction-and-purpose) |
+| [2.0 Context: The Shared Challenges](#20-context-the-shared-challenges) |
+| [3.0 Recommendations](#30-recommendations) |
+| &nbsp;&nbsp;[3.1. Transparency and Traceability](#31-transparency-and-traceability) |
+| &nbsp;&nbsp;[3.2. Reciprocity and Value Sharing](#32-reciprocity-and-value-sharing) |
+| &nbsp;&nbsp;[3.3. Licensing, Governance, and Legal Tools](#33-licensing,-governance,-and-legal-tools) |
+| &nbsp;&nbsp;[3.4 Technical Mechanisms for DPGs](#34-technical-mechanisms-for-dpgs) |
+| [4.0 Conclusion](#40-conclusion) |
+| [5.0 Acknowledgement](#50-acknowledgement) |
+| [6.0 References](#60-references) |
 
 ## 1.0 Introduction and Purpose
 
@@ -68,14 +68,12 @@ Based on the shared challenges described above, the following non-exhaustive rec
 
 These recommendations serve as a starting point for dialogue and a policy framework to govern a more equitable and ethical relationship between the stewards of digital public goods and the developers of transformative commercial AI technologies. DPG product owners desire intentional support to reiterate the value of the human infrastructure behind DPGs and to build a safer mechanism that doesn’t restrict legitimate users from continuing to innovate with our public goods while still motivating community contributors to support maintenance. We do need an open dialogue that doesn't require community members to pick sides on whether to use AI, but rather to engage with commercial and non-commercial entities to identify an appropriate path forward.
 
-> [!NOTE]
 > The DPGA Secretariat has likewise developed a [DPG Defence Playbook](), an overview of available mechanisms to protect against AI exploitation and how they map against the current open definition, and, by extension, the DPG Standard. The playbook’s aim is to deepen understanding and conceptual clarity around the tension between maintaining open access and ensuring the survival of an open resource. We will continue to work with all relevant stakeholders and DPG product owners to advance this work further.  
 
-> [!TIP]
-> If you’re an expert on any mechanism DPG product owners have outlined above, we welcome your insights to share a resource or speak to Open Content & Open Data DPG product owners on one of the DPG community calls, specifically on the topics:  
->  - Measuring Impact for Open Content and Data DPGs  
->  - Ethical Use of AI for Open Content and Data DPGs  
->  - Financial Sustainability for Open Content and Data DPGs
+> If you’re an expert on any of the recommendation/challenge outlined above and would like to share resources or insights with Open Content & Open Data DPG product owners via their community calls (specifically on the topics below), please [send an email](mailto:community@digitalpublicgoods.net).  
+>  - Measuring Impact for Open Content and Data DPGs.  
+>  - Ethical Use of AI for Open Content and Data DPGs.
+>  - Financial Sustainability for Open Content and Data DPGs.
 
 ## 5.0 Acknowledgement
 
