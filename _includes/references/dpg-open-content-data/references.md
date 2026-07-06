@@ -1,0 +1,6 @@
+1. [New User Trends on Wikipedia](https://diff.wikimedia.org/2025/10/17/new-user-trends-on-wikipedia/)  
+2. [Rethinking openness in the age of AI](https://afp.oxford-aiethics.ox.ac.uk/article/angela-oduor-lungati-rethinking-openness-age-ai)  
+3. [Quo Vadis, Crawlers? Progress and what’s next on safeguarding our infrastructure](https://diff.wikimedia.org/2026/03/26/quo-vadis-crawlers-progress-and-whats-next-on-safeguarding-our-infrastructure/)  
+4. [The Weaponisation of Openness? Toward a New Social Contract for Data in the AI Era](https://sverhulst.medium.com/the-weaponisation-of-openness-toward-a-new-social-contract-for-data-in-the-ai-era-fb9f49ef6109)
+5. [From Signals to Infrastructure: Strengthening the Commons for the AI Era](https://creativecommons.org/2026/05/13/from-signals-to-infrastructure-strengthening-the-commons-for-the-ai-era/)  
+6. [Wikimedia Foundation launches Wikimedia Enterprise: the new, opt-in product for companies and organizations to easily reuse content from Wikipedia and Wikimedia projects](https://wikimediafoundation.org/news/2021/10/25/wikimedia-foundation-launches-wikimedia-enterprise-the-new-opt-in-product-for-companies-and-organizations-to-easily-reuse-content-from-wikipedia-and-wikimedia-projects/)
