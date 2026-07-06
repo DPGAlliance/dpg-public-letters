@@ -92,4 +92,4 @@ The following Open Data and Open Content DPGs were involved in data collection a
 
 ## 6.0 References
 
-{% include references/dpg-sustainability/references.md %}
+{% include references/dpg-open-content-data/references.md %}
