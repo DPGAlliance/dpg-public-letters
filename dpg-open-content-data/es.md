@@ -54,17 +54,17 @@ A la luz de los retos comunes descritos anteriormente, se proponen las siguiente
 ### 3.1. Transparencia y trazabilidad
 
 * **Divulgación obligatoria del índice de contenidos:** Se debería animar a las empresas de modelos de lenguaje a gran escala (LLM) a publicar, de forma resumida, las principales fuentes de datos extraídos utilizados en sus corpus de entrenamiento, lo que permitiría a los DPG confirmar si se ha utilizado su contenido.
-* **Mecanismo de atribución:** Debe continuarse el trabajo sobre estándares que exijan un ciclo de comportamiento en el que los resultados de la IA deban enlazar y citar los conjuntos de datos originales en los que se basan. Para ello, se debe recurrir a marcos de atribución y guías de buenas prácticas, como los desarrollados por Creative Commons <sup>**5**</sup>. Esto garantiza que el contenido generado por máquinas mantenga una trazabilidad clara hasta sus orígenes de autoría humana, reforzando así el valor de los bienes comunes digitales.
+* **Mecanismo de atribución:** Es necesario avanzar en la definición de estándares que exijan que los resultados generados por IA enlacen y citen los conjuntos de datos originales en los que se basan. Para ello, se debe recurrir a marcos de atribución y guías de buenas prácticas, como los desarrollados por Creative Commons <sup>**5**</sup>. Esto garantiza que el contenido generado por máquinas mantenga una trazabilidad clara hasta sus orígenes de autoría humana, reforzando así el valor de los bienes comunes digitales.
 
 ### 3.2. Reciprocidad y reparto de valor
 
 * **Reinversión financiera:** Las empresas comerciales de modelos de lenguaje a gran escala (LLM) que dependen en gran medida del contenido extraído de las DPG deberían establecer un fondo o mecanismo mutuamente sostenible para proporcionar subvenciones, financiación sin restricciones o recursos técnicos a las organizaciones DPG cuyo contenido contribuye a su éxito comercial.
-* **Acceso ético a datos para la investigación:** Las empresas comerciales de modelos de lenguaje a gran escala (LLM) deberían comprometerse a proporcionar un acceso gratuito, específico y de alta fidelidad a sus modelos avanzados para la investigación y el desarrollo sin ánimo de lucro dentro de los grupos de desarrollo de datos (DPG) y las comunidades de interés público.
+* **Acceso ético a datos para la investigación:** Las empresas comerciales de modelos de lenguaje a gran escala (LLM) deberían comprometerse a proporcionar un acceso gratuito, específico y de alta fidelidad a sus modelos avanzados para la investigación y el desarrollo sin ánimo de lucro en los grupos de desarrollo de datos (DPG) y otras comunidades de interés público.
 
 ### 3.3. Licencias, gobernanza y herramientas jurídicas
 
 * **Respeto de las políticas de robots (robots.txt):** Los DPG deben mantener actualizados los archivos *robots.txt* que especifiquen claramente las restricciones para los rastreadores automatizados y los bots de IA, definan los parámetros de uso y protejan los recursos del servidor frente a la extracción indiscriminada de datos. Del mismo modo, las empresas comerciales de LLM y las organizaciones de investigación no comerciales deben comprometerse a desarrollar medidas de protección técnicas y normativas para garantizar el cumplimiento de estas normas.
-* **Cláusulas contra el scraping en las condiciones de servicio (ToS):** Las organizaciones deben implementar unas Condiciones de Servicio claras que prohíban explícitamente la recopilación no autorizada de datos a gran escala y el scraping automatizado, estableciendo así una base jurídica para gestionar las interacciones comerciales y proteger los activos de datos de propiedad exclusiva.
+* **Cláusulas contra la extracción de datos (_scraping_) en los Términos y Condiciones de Uso (ToS):** Las organizaciones deben implementar Términos y Condiciones de Uso claros que prohíban explícitamente la recopilación no autorizada de datos a gran escala y el _scraping_ automatizado, estableciendo así una base jurídica para gestionar las interacciones comerciales y proteger los activos de datos de propiedad exclusiva.
 
 ### 3.4 Mecanismos técnicos para los DPG
 
@@ -75,16 +75,16 @@ A la luz de los retos comunes descritos anteriormente, se proponen las siguiente
 
 ## 4.0 Conclusión
 
-Estas recomendaciones sirven como punto de partida para el diálogo y como marco normativo para regular una relación más equitativa y ética entre los gestores de los bienes públicos digitales y los desarrolladores de tecnologías comerciales de IA. 
+Estas recomendaciones sirven como punto de partida para el diálogo y como marco normativo para regular una relación más equitativa y ética entre los gestores de los Bienes Públicos Digitales (DPG) y los desarrolladores de tecnologías comerciales de IA. 
 
-Los responsables de producto de los Bienes Públicos Digitales (DPG) necesitan un apoyo deliberado para reafirmar el valor de la infraestructura humana que hay detrás de los DPG y para crear un mecanismo más seguro que no impida a los usuarios legítimos seguir innovando con nuestros bienes públicos, al tiempo que se sigue motivando a los colaboradores de la comunidad a apoyar su mantenimiento. Necesitamos un diálogo abierto que no obligue a los miembros de la comunidad a tomar partido sobre si utilizar o no la IA, sino que les permita colaborar con entidades comerciales y no comerciales para identificar un camino adecuado a seguir.
+Los responsables de producto de los Bienes Públicos Digitales (DPG) requieren un apoyo deliberado para reafirmar el valor de la infraestructura humana que sostiene estos recursos. Asimismo, es necesario diseñar mecanismos más seguros que protejan los datos sin obstaculizar la innovación legítima, al tiempo que se motiva a los colaboradores de la comunidad a mantener su compromiso con el ecosistema. Necesitamos un diálogo abierto que no obligue a los miembros de la comunidad a posicionarse a favor o en contra del uso de la IA, sino que les permita colaborar con entidades comerciales y no comerciales para identificar conjuntamente un camino a seguir.
 
-> La Secretaría de la DPGA ha elaborado asimismo un [Manual de defensa de la DPG (inglés)](https://strapi.digitalpublicgoods.net/uploads/The_DPG_Defence_Playbook_90d076d138.pdf), una visión general de los mecanismos disponibles para protegerse contra la explotación de la IA y de cómo se ajustan a la definición abierta actual y, por extensión, a la Norma DPG. El objetivo del manual es profundizar en la comprensión y la claridad conceptual en torno a la tensión existente entre mantener el acceso abierto y garantizar la supervivencia de un recurso abierto. Seguiremos colaborando con todas las partes interesadas pertinentes y con los responsables de los productos DPG para seguir avanzando en esta labor.
+> El Secretariado de la DPGA ha elaborado un [Manual de defensa de la DPG (inglés)](https://strapi.digitalpublicgoods.net/uploads/The_DPG_Defence_Playbook_90d076d138.pdf), una visión general de los mecanismos disponibles para protegerse contra la explotación de la IA y de cómo se ajustan a la definición abierta actual y, por extensión, al estándar DPG. El objetivo del manual es profundizar en la comprensión y la claridad conceptual en torno a la tensión existente entre mantener el acceso abierto y garantizar la supervivencia de un recurso abierto. Seguiremos colaborando con todas las partes interesadas pertinentes y con los responsables de producto de Bienes Públicos Digitales para seguir avanzando en esta labor.
 
-> Si eres experto en alguna de las recomendaciones o retos descritos anteriormente y te gustaría compartir recursos o ideas con los responsables de los productos DPG de Contenido Abierto y Datos Abiertos a través de sus reuniones comunitarias (concretamente sobre los temas que se indican a continuación), por favor, [envía un correo electrónico](mailto:community@digitalpublicgoods.net).
->  - Medición del impacto de los DPG de Contenido Abierto y Datos Abiertos.
->  - Uso ético de la IA para los DPG de Contenido Abierto y Datos Abiertos.
->  - Sostenibilidad financiera de los DPG de Contenido Abierto y Datos Abiertos.
+> Si eres experto en alguna de las recomendaciones o retos descritos anteriormente y te gustaría compartir recursos o ideas con los responsables de producto de Bienes Públicos Digitales en el ámbito de los contenidos y datos abiertos a través de sus reuniones comunitarias (específicamente sobre los temas que se indican a continuación), por favor, [envía un correo electrónico](mailto:community@digitalpublicgoods.net).
+>  - Medición del impacto de los DPG sobre contenidos y datos abiertos.
+>  - Uso ético de la IA para los DPG sobre contenidos y datos abiertos.
+>  - Sostenibilidad financiera de los DPG sobre contenidos y datos abiertos.
 
 ## 5.0 Agradecimientos
 
