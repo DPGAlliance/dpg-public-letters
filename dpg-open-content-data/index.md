@@ -9,3 +9,4 @@ permalink: /dpg-open-content-data/
 Choose your language:
 
 - [English](en/)
+- [Spanish](es/)
