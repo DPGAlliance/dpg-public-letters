@@ -12,8 +12,8 @@ This repository hosts public letters and concept notes written by product owners
 
 | Name | Source |
 | ---- | ------ |
-| [DPG Sustainability Public Support Letter](https://dpgalliance.github.io/dpg-public-letters/dpg-sustainability/en/) | [/dpg-sustainability](/dpg-sustainability/) |
-| [Best Practices for Preventing AI Exploitation of Open Content and Open Data DPGs](https://dpgalliance.github.io/dpg-public-letters/dpg-open-content-data/en/) | [/dpg-open-content-data](/dpg-open-content-data/) |
+| [DPG Sustainability Public Support Letter](https://dpgalliance.github.io/dpg-public-letters/dpg-sustainability/) | [/dpg-sustainability](/dpg-sustainability/) |
+| [Best Practices for Preventing AI Exploitation of Open Content and Open Data DPGs](https://dpgalliance.github.io/dpg-public-letters/dpg-open-content-data/) | [/dpg-open-content-data](/dpg-open-content-data/) |
 
 ## Contributing Guide
 
