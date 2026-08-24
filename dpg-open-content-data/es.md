@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mejores prácticas para prevenir la explotación de la IA sobre contenidos y datos abiertos de los Bienes Públicos Digitales (DPG)
-permalink: /dpg-open-content-data/es
+permalink: /dpg-open-content-data/es/
 ---
 
 # {{ page.title }}
@@ -13,9 +13,9 @@ permalink: /dpg-open-content-data/es
 | [1.0 Introducción y objetivo](#10-introducción-y-propósito) |
 | [2.0 Contexto: los retos comunes](#20-contexto-los-retos-comunes) |
 | [3.0 Recomendaciones](#30-recomendaciones) |
-| &nbsp;&nbsp;[3.1. Transparencia y trazabilidad](#31-transparencia-y-trazabilidad) |
-| &nbsp;&nbsp;[3.2. Reciprocidad y reparto de valor](#32-reciprocidad-y-reparto-de-valor) |
-| &nbsp;&nbsp;[3.3. Licencias, gobernanza y herramientas jurídicas](#33-licencias,-gobernanza-y-herramientas-jurídicas) |
+| &nbsp;&nbsp;[3.1 Transparencia y trazabilidad](#31-transparencia-y-trazabilidad) |
+| &nbsp;&nbsp;[3.2 Reciprocidad y reparto de valor](#32-reciprocidad-y-reparto-de-valor) |
+| &nbsp;&nbsp;[3.3 Licencias, gobernanza y herramientas jurídicas](#33-licencias-gobernanza-y-herramientas-jurídicas) |
 | &nbsp;&nbsp;[3.4 Mecanismos técnicos para los DPG](#34-mecanismos-técnicos-para-los-dpg) |
 | [4.0 Conclusión](#40-conclusión) |
 | [5.0 Agradecimientos](#50-agradecimientos) |
@@ -31,7 +31,7 @@ Las recomendaciones expuestas surgen de la necesidad consensuada de salvaguardar
 
 La rápida proliferación y la creciente comercialización de la IA generativa, en particular de los grandes modelos de lenguaje, plantean una serie de retos inéditos para los DPG, que, por definición, funcionan según los principios de apertura, beneficio público y no-exclusividad <sup>**3**</sup>. 
 
-Los modelos de lenguaje a gran escala (LLM) generan beneficios comerciales masivos al recopilar, entrenar y transformar contenidos de bien público en productos propietarios. Mientras el sector del bien público provee la materia prima esencial, persiste una asimetría crítica: no existe retorno de valor hacia quienes crearon dichos recursos. Actualmente falta un mecanismo que garantice reciprocidad, reconocimiento y reinvversión sostenible en el ecosistema de los DPG.<sup>**4**</sup>. 
+Los modelos de lenguaje a gran escala (LLM) generan beneficios comerciales masivos al recopilar, entrenar y transformar contenidos de bien público en productos propietarios. Mientras el sector del bien público provee la materia prima esencial, persiste una asimetría crítica: no existe retorno de valor hacia quienes crearon dichos recursos. Actualmente falta un mecanismo que garantice reciprocidad, reconocimiento y reinversión sostenible en el ecosistema de los DPG.<sup>**4**</sup>. 
 
 Entre los principales retos a los que se enfrentan los responsables de producto de diversos DPG se incluyen:
 
@@ -41,7 +41,7 @@ Entre los principales retos a los que se enfrentan los responsables de producto 
    
 3. **Sostenibilidad financiera**: La financiación tradicional mediante subvenciones es cada vez menos viable, y la recaudación de fondos resulta más difícil, ya que los donantes están orientando sus programas hacia iniciativas de IA. Al mismo tiempo el declive en métricas cómo tráfico y número de visitas, compromete el argumento de sostenibilidad basado en la existencia de una comunidad de usuarios consolidada. A estas presiones se suma una creciente cautela organizacional frente a compartir datos o contenido abierto ante el riesgo de extracción de valor sin retorno al ecosistema.
   
-4. **Falta de transparencia y de mecanismos de exclusión voluntaria**: No existe normativa vigente ni práctica establecida que obligue a declarar el uso de datos, consciente o inadrvetido, en entrenamiento de sistemas de IA. Los DPGs a menudo carecen de visibilidad sobre qué entidades comerciales o no comerciales de modelos de lenguaje a gran escala (LLM) están utilizando su contenido, cómo se está utilizando, o no poseen un mecanismo sencillo para entablar un diálogo, colaborar en objetivos comunes, solicitar el cumplimiento de directrices éticas específicas o "excluirse" (opt-out) de manera efectiva de determinados usos de alto riesgo. La escasa divulgación por parte de las principales empresas de IA sobre cómo y con qué finalidad utilizan los datos dificulta que las organizaciones DPG midan su impacto, protejan sus activos y aseguren financiamiento a largo plazo.
+4. **Falta de transparencia y de mecanismos de exclusión voluntaria**: No existe normativa vigente ni práctica establecida que obligue a declarar el uso de datos, consciente o inadvertido, en el entrenamiento de sistemas de IA. Los DPGs a menudo carecen de visibilidad sobre qué entidades comerciales o no comerciales de modelos de lenguaje a gran escala (LLM) están utilizando su contenido, cómo se está utilizando, o no poseen un mecanismo sencillo para entablar un diálogo, colaborar en objetivos comunes, solicitar el cumplimiento de directrices éticas específicas o "excluirse" (opt-out) de manera efectiva de determinados usos de alto riesgo. La escasa divulgación por parte de las principales empresas de IA sobre cómo y con qué finalidad utilizan los datos dificulta que las organizaciones DPG midan su impacto, protejan sus activos y aseguren financiamiento a largo plazo.
 
 5. **Amenazas al modelo de contribución**: Los modelos de contribución comunitaria están en peligro, cuando actores corporativos extraen datos y contenidos creados por voluntarios sin hacer una inversión recíproca en la sostenibilidad del proyecto, generar incentivos para los colaboradores o respetar la gobernanza abierta. Del mismo modo, cuando los LLM se interponen entre el DPG y su usuario final, el contacto y la buena voluntad o motivación que generaron y sostienen el DPG comienzan a desvanecerse. Si los colaboradores perciben que su trabajo ya no es respetado, reconocido o recompensado, es posible que no vean ningún beneficio en participar y apoyar el desarrollo de los DPG.
 
@@ -101,7 +101,7 @@ Los siguientes Bienes Públicos Digitales (DPG) participaron en la recopilación
 9. [Wikipedia](https://www.digitalpublicgoods.net/r/wikipedia)  
 10. [The Turing Way](https://www.digitalpublicgoods.net/r/the-turing-way)
 
-## 6.0 References
+## 6.0 Referencias
 
 {% include references/dpg-open-content-data/references.md %}
 
