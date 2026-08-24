@@ -13,9 +13,9 @@ permalink: /dpg-open-content-data/en
 | [1.0 Introduction and Purpose](#10-introduction-and-purpose) |
 | [2.0 Context: The Shared Challenges](#20-context-the-shared-challenges) |
 | [3.0 Recommendations](#30-recommendations) |
-| &nbsp;&nbsp;[3.1. Transparency and Traceability](#31-transparency-and-traceability) |
-| &nbsp;&nbsp;[3.2. Reciprocity and Value Sharing](#32-reciprocity-and-value-sharing) |
-| &nbsp;&nbsp;[3.3. Licensing, Governance, and Legal Tools](#33-licensing,-governance,-and-legal-tools) |
+| &nbsp;&nbsp;[3.1 Transparency and Traceability](#31-transparency-and-traceability) |
+| &nbsp;&nbsp;[3.2 Reciprocity and Value Sharing](#32-reciprocity-and-value-sharing) |
+| &nbsp;&nbsp;[3.3 Licensing, Governance, and Legal Tools](#33-licensing,-governance,-and-legal-tools) |
 | &nbsp;&nbsp;[3.4 Technical Mechanisms for DPGs](#34-technical-mechanisms-for-dpgs) |
 | [4.0 Conclusion](#40-conclusion) |
 | [5.0 Acknowledgement](#50-acknowledgement) |
