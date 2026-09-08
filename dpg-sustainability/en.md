@@ -35,13 +35,13 @@ We, DPG product owners, are committed to building and maintaining vital digital 
 
 Sincerely,
 
-{% include signatures/dpg-sustainability/sincerely-list.html signatures=site.data.signatures.dpg-sustainability.sincerely %}
+{% include signatures/dpg-sustainability/sincerely-list.html signatures=site.data.dpg-sustainability.signatures.sincerely %}
 
 ---
 
 Supported by:
 
-{% include signatures/dpg-sustainability/supported-by-list.html supporters=site.data.signatures.dpg-sustainability.supported_by %}
+{% include signatures/dpg-sustainability/supported-by-list.html supporters=site.data.dpg-sustainability.signatures.supported_by %}
 
 > 📨 Kindly read [this guide](https://github.com/DPGAlliance/dpg-public-letters/blob/main/README.md) to learn how to support this movement and endorse the letter.
 
