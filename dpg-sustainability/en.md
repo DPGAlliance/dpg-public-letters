@@ -35,7 +35,7 @@ We, DPG product owners, are committed to building and maintaining vital digital 
 
 Sincerely,
 
-{% include signatures/dpg-sustainability/sincerely-list.html signatures=site.data.signatures.dpg-sustainability.sincerely %}x
+{% include signatures/dpg-sustainability/sincerely-list.html signatures=site.data.signatures.dpg-sustainability.sincerely %}
 
 ---
 
